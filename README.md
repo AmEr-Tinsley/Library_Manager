@@ -8,7 +8,7 @@ Start your local copy of the application using the following command on the Comm
 ```sh
 $ python auth.py
 ```
-![Main Screen](screenshots\\auth.PNG)
+![Main Screen](screenshots/auth.PNG)
 In the main application you have two interfaces
 ### Admin interface
 ![Main Screen](screenshots/Admin/admin_main.PNG)
